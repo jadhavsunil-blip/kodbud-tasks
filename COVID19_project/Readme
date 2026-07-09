@@ -1,0 +1,17 @@
+# COVID-19 Data Analysis
+
+## Project Overview
+This project analyzes the WHO COVID-19 dataset using Python.
+
+## Tools Used
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+
+## Key Analyses
+- Global daily COVID-19 cases
+- Top affected countries
+- Data visualization
+- Trend analysis
